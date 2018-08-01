@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HMCodeInputView_Example' do
+  pod 'HMCodeInputView', :path => '../'
+
+  target 'HMCodeInputView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

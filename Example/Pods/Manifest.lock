@@ -1,0 +1,16 @@
+PODS:
+  - HMCodeInputView (0.1.0)
+
+DEPENDENCIES:
+  - HMCodeInputView (from `../`)
+
+EXTERNAL SOURCES:
+  HMCodeInputView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HMCodeInputView: ff5261229ad4dcd4f9d717977994d3b0c71c6720
+
+PODFILE CHECKSUM: 5687d1ed64f34ba0720053b83821be4ccb6857a6
+
+COCOAPODS: 1.5.2

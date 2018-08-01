@@ -1,0 +1,22 @@
+{
+  "name": "HMCodeInputView",
+  "version": "0.1.0",
+  "summary": "仿写验证码输入",
+  "description": "仿写的一个框一个框输入的验证码视图",
+  "homepage": "https://github.com/1013732192@qq.com/HMCodeInputView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1013732192@qq.com": "zhangkang@dafy.com"
+  },
+  "source": {
+    "git": "https://github.com/1013732192@qq.com/HMCodeInputView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HMCodeInputView/Classes/**/*"
+}
